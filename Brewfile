@@ -25,7 +25,7 @@ cask rectangle
 cask tg-pro
 cask sublime-text
 cask sublime-merge
-visual-studio-code
+cask visual-studio-code
 cask vlc
   
 ## regular brews
