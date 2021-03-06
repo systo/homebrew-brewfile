@@ -13,7 +13,7 @@ cask discord
 cask firefox
 cask font-fira-code
 cask font-fira-mono 
-cask font-fira-mono-for-powerline
+# cask font-fira-mono-for-powerline
 cask font-fira-sans
 cask keka
 cask notion
