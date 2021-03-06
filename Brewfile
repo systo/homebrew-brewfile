@@ -1,10 +1,10 @@
 # Tap repositories and their packages
-tap caskroom/cask
+tap homebrew/cask
 brew 'brew-cask'
 # install brew-cask # install is same as "brew". Quotes are not mandatory.
 
 # tap font casks
-tap caskroom/fonts
+tap homebrew/cask-fonts
 brew 'brew-cask'
 
 ## Cask packages
