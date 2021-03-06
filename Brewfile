@@ -1,9 +1,11 @@
-# 'brew tap'
-tap homebrew/cask
-# for font support
-tap homebrew/cask-fonts
+cask_args appdir: "/Applications"
 
-## regular brews
+# brew tap(s)
+tap "homebrew/cask"
+# for font support
+tap "homebrew/cask-fonts"
+
+# regular brew(s)
 brew "mas"
 brew "node"
 brew "rustup-init"
@@ -11,7 +13,7 @@ brew "sqlite"
 brew "tree"
 brew "wget"
 
-## 'brew install --cask'
+# application cask(s)
 cask "cyberduck"
 cask "discord"
 cask "firefox"
