@@ -1,4 +1,4 @@
-# homebrew-brewfile
+# My homebrew-brewfile
 
 ## Why
 This is a boilerplate brewfile I use when setting up a new Mac (or Refreshing an existing one.)
