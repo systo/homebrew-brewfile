@@ -40,9 +40,9 @@ cask 'font-cascadia-code-pl'
 mas 'Amphetamine', id: 937984704
 mas 'Calcbot', id: 931657367
 mas 'Textual 7', id: 1262957439
-mas 'Microsoft OneNote' id: 784801555
-mas 'Microsoft Outlook' id: 985367838
-mas 'Microsoft Word' id: 462054704
-mas 'Microsoft Excel' id: 462058435
-mas 'Microsoft Remote Desktop' id: 1295203466
-mas 'Microsoft To Do' id: 1274495053
+mas 'Microsoft OneNote', id: 784801555
+mas 'Microsoft Outlook', id: 985367838
+mas 'Microsoft Word', id: 462054704
+mas 'Microsoft Excel', id: 462058435
+mas 'Microsoft Remote Desktop', id: 1295203466
+mas 'Microsoft To Do', id: 1274495053
