@@ -26,7 +26,7 @@ cask 'protonvpn'
 cask 'rectangle'
 cask 'tg-pro'
 cask 'visual-studio-code'
-cask 'zoomus'
+cask 'zoom'
 
 # font cask(s)
 cask 'font-fira-code'
