@@ -25,6 +25,7 @@ cask 'postgres-unofficial'
 cask 'protonvpn'
 cask 'rectangle'
 cask 'tg-pro'
+cask 'turbo-boost-switcher'
 cask 'visual-studio-code'
 cask 'zoom'
 
